@@ -1,0 +1,37 @@
+$dark: #101010;
+$white: #f1f1f1;
+
+$complemantary: #1df38c;
+$primary: #f31d84;
+
+$font_size_list: (
+    xl: 30px,
+    sm: 20px,
+    xs: 10px,
+    xxl: 55px
+);
+
+$font_weight_list: (
+    regular: 500,
+    bold: 700,
+    bolder: 900
+);
+
+$font_align_list: (
+    center: center,
+    left: left,
+    right: right
+);
+
+$display_type_list: (
+    flex: flex,
+    inline-block: inline-block,
+    block: block
+);
+
+$flex_direction_list: (
+    row: row,
+    column: column,
+    row-reverse: row-reverse,
+    column-reverse: column-reverse
+)
